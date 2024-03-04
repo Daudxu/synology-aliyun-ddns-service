@@ -1,5 +1,3 @@
-# synology-aliyun-ddns-service
-
 简体中文 | [English](./README.en.md)  
 
 <h1 align="center">
